@@ -1,4 +1,4 @@
-### Hi there I am boxfoonk, a python enthusiast, you can contact me at liaixl52@gmail.com👋
+### Hi there I am boxfoonk, a python enthusiast, you can contact me at admin@boxfoonk.com👋
 
 <!--
 **boxfoonk/boxfoonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
